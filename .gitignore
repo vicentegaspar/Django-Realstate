@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.db
+*.sqlite3
+backend/media/
+backend/staticfiles/
+.env
+.env.local
+node_modules/
+frontend/build/
+.svelte-kit/
+.DS_Store
